@@ -36,6 +36,8 @@ Key features:
 
 ### Contributor Repositories
 
+## JAM SDKs
+
 ## Developers & Contributors
 
 | Developer | GitHub | Repository | Description |
@@ -47,10 +49,10 @@ Key features:
 
 We welcome contributions from the JAM community! Here's how you can help:
 
-### Adding Your JAM Service Examples
+### Adding Your JAM Service Examples and SDKs
 
 1. **Fork this repository**
-2. **Add your service example** to the appropriate section
+2. **Add your service example or SDK** to the appropriate section
 3. **Include the following information**:
    - Your name/handle
    - GitHub profile link
@@ -63,7 +65,6 @@ We welcome contributions from the JAM community! Here's how you can help:
 - Ensure your JAM service examples are well-documented
 - Include clear README files in your repositories
 - Provide working code examples when possible
-- Follow best practices for JAM service development
 - Keep descriptions concise but informative
 
 ### Format for New Entries
