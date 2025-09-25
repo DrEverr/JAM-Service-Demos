@@ -34,6 +34,8 @@ Key features:
 **Repository**: [jade/services](https://github.com/spacejamapp/jade/tree/main/services)  
 **Description**: JAM service implementations as part of the Jade project, showcasing practical applications.
 
+### Contributor Repositories
+
 ## Developers & Contributors
 
 | Developer | GitHub | Repository | Description |
