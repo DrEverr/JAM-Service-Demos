@@ -26,7 +26,7 @@ Key features:
 
 ### Developer Repositories
 
-#### TomusDrw
+#### tomusdrw
 **Repository**: [jam-examples](https://github.com/tomusdrw/jam-examples)  
 **Description**: Collection of JAM service examples and tutorials demonstrating various use cases and patterns.
 
@@ -42,7 +42,7 @@ Key features:
 
 | Developer | GitHub | Repository | Description |
 |-----------|--------|------------|-------------|
-| TomusDrw | [@tomusdrw](https://github.com/tomusdrw) | [jam-examples](https://github.com/tomusdrw/jam-examples) | JAM service examples and tutorials |
+| tomusdrw | [@tomusdrw](https://github.com/tomusdrw) | [jam-examples](https://github.com/tomusdrw/jam-examples) | JAM service examples and tutorials |
 | SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade/services](https://github.com/spacejamapp/jade/tree/main/services) | Jade project JAM services |
 
 ## Contributing
