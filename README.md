@@ -22,31 +22,13 @@ Key features:
 - **Interoperability**: Built-in support for cross-service communication
 - **Developer-Friendly**: Rich tooling and development environment
 
-## Service Examples
-
-### Developer Repositories
-
-#### TomusDrw
-**Repository**: [jam-examples](https://github.com/tomusdrw/jam-examples)  
-**Description**: Collection of JAM service examples and tutorials demonstrating various use cases and patterns.
-
-#### SpaceJam
-**Repository**: [jade/services](https://github.com/spacejamapp/jade/tree/main/services)  
-**Description**: JAM service implementations as part of the Jade JAM SDK project, showcasing practical applications.
-
-### Contributor Repositories
-
-## JAM SDKs
-| Developer | GitHub | Repository | Description |
-|-----------|--------|------------|-------------|
-| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade/sdk](https://github.com/spacejamapp/jade/tree/main/crates/jade) | Jade JAM SDK |
-
 ## Developers & Contributors
 
 | Developer | GitHub | Repository | Description |
 |-----------|--------|------------|-------------|
 | TomusDrw | [@tomusdrw](https://github.com/tomusdrw) | [jam-examples](https://github.com/tomusdrw/jam-examples) | JAM service examples and tutorials |
-| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade/services](https://github.com/spacejamapp/jade/tree/main/services) | Jade project JAM services |
+| FluffyLabs | [@fluffylabs](https://github.com/FluffyLabs) | [pvm-debugger](https://github.com/FluffyLabs/pvm-debugger) | JAM PVM code debugger |
+| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade](https://github.com/spacejamapp/jade) | Jade project JAM SDK & example services |
 
 ## Contributing
 
