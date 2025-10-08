@@ -7,7 +7,6 @@ JAM is a blockchain technology created by Polkadot that provides a flexible fram
 ## Contents
 
 - [About JAM](#about-jam)
-- [Service Examples](#service-examples)
 - [Developers & Contributors](#developers--contributors)
 - [Contributing](#contributing)
 - [License](#license)
@@ -37,7 +36,7 @@ We welcome contributions from the JAM community! Here's how you can help:
 ### Adding Your JAM Service Examples and SDKs
 
 1. **Fork this repository**
-2. **Add your service example or SDK** to the appropriate section
+2. **Add your service example or SDK** to the list
 3. **Include the following information**:
    - Your name/handle
    - GitHub profile link
@@ -51,16 +50,6 @@ We welcome contributions from the JAM community! Here's how you can help:
 - Include clear README files in your repositories
 - Provide working code examples when possible
 - Keep descriptions concise but informative
-
-### Format for New Entries
-
-When adding new service examples, please use this format:
-
-```markdown
-#### Developer Name
-**Repository**: [repository-name](https://github.com/username/repository)  
-**Description**: Brief description of the JAM service examples or demos.
-```
 
 ## License
 
