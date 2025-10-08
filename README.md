@@ -39,7 +39,7 @@ Key features:
 ## JAM SDKs
 | Developer | GitHub | Repository | Description |
 |-----------|--------|------------|-------------|
-| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade-sdk](https://github.com/spacejamapp/jade/tree/main/crates/jade) | Jade JAM SDK |
+| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade/sdk](https://github.com/spacejamapp/jade/tree/main/crates/jade) | Jade JAM SDK |
 
 ## Developers & Contributors
 
