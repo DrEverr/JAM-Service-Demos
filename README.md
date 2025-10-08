@@ -32,11 +32,14 @@ Key features:
 
 #### SpaceJam
 **Repository**: [jade/services](https://github.com/spacejamapp/jade/tree/main/services)  
-**Description**: JAM service implementations as part of the Jade project, showcasing practical applications.
+**Description**: JAM service implementations as part of the Jade JAM SDK project, showcasing practical applications.
 
 ### Contributor Repositories
 
 ## JAM SDKs
+| Developer | GitHub | Repository | Description |
+|-----------|--------|------------|-------------|
+| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade-sdk](https://github.com/spacejamapp/jade/tree/main/crates/jade) | Jade JAM SDK |
 
 ## Developers & Contributors
 
