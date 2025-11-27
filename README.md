@@ -29,6 +29,7 @@ Key features:
 | FluffyLabs | [@fluffylabs](https://github.com/FluffyLabs) | [pvm-debugger](https://github.com/FluffyLabs/pvm-debugger) | JAM PVM code debugger |
 | SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade](https://github.com/spacejamapp/jade) | Jade project JAM SDK & example services in Rust |
 | JamBrains | [@JamBrains](https://github.com/JamBrains) | [service-sdk](https://github.com/JamBrains/service-sdk) | SDK for creating JAM Services in C |
+| JamBrains | [@JamBrains](https://github.com/JamBrains) | [service playground](https://playground.jamcha.in/) | JAM Service playground - code in C using JamBrains SDK |
 | Parity Tech | [@paritytech](https://github.com/paritytech) | [jam-sdk](https://hackmd.io/@polkadot/jamsdk) | SDK for creating JAM Services in Rust |
 
 ## Contributing
