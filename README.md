@@ -25,9 +25,11 @@ Key features:
 
 | Developer | GitHub | Repository | Description |
 |-----------|--------|------------|-------------|
-| tomusdrw | [@tomusdrw](https://github.com/tomusdrw) | [jam-examples](https://github.com/tomusdrw/jam-examples) | JAM service examples and tutorials |
+| tomusdrw | [@tomusdrw](https://github.com/tomusdrw) | [jam-examples](https://github.com/tomusdrw/jam-examples) | JAM service examples and tutorials in Rust using JamSDK |
 | FluffyLabs | [@fluffylabs](https://github.com/FluffyLabs) | [pvm-debugger](https://github.com/FluffyLabs/pvm-debugger) | JAM PVM code debugger |
-| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade](https://github.com/spacejamapp/jade) | Jade project JAM SDK & example services |
+| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade](https://github.com/spacejamapp/jade) | Jade project JAM SDK & example services in Rust |
+| JamBrains | [@JamBrains](https://github.com/JamBrains) | [service-sdk](https://github.com/JamBrains/service-sdk) | SDK for creating JAM Services in C |
+| Parity Tech | [@paritytech](https://github.com/paritytech) | [jam-sdk](https://hackmd.io/@polkadot/jamsdk) | SDK for creating JAM Services in Rust |
 
 ## Contributing
 
