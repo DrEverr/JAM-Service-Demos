@@ -7,7 +7,6 @@ JAM is a blockchain technology created by Polkadot that provides a flexible fram
 ## Contents
 
 - [About JAM](#about-jam)
-- [Service Examples](#service-examples)
 - [Developers & Contributors](#developers--contributors)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,28 +21,13 @@ Key features:
 - **Interoperability**: Built-in support for cross-service communication
 - **Developer-Friendly**: Rich tooling and development environment
 
-## Service Examples
-
-### Developer Repositories
-
-#### tomusdrw
-**Repository**: [jam-examples](https://github.com/tomusdrw/jam-examples)  
-**Description**: Collection of JAM service examples and tutorials demonstrating various use cases and patterns.
-
-#### SpaceJam
-**Repository**: [jade/services](https://github.com/spacejamapp/jade/tree/main/services)  
-**Description**: JAM service implementations as part of the Jade project, showcasing practical applications.
-
-### Contributor Repositories
-
-## JAM SDKs
-
 ## Developers & Contributors
 
 | Developer | GitHub | Repository | Description |
 |-----------|--------|------------|-------------|
 | tomusdrw | [@tomusdrw](https://github.com/tomusdrw) | [jam-examples](https://github.com/tomusdrw/jam-examples) | JAM service examples and tutorials |
-| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade/services](https://github.com/spacejamapp/jade/tree/main/services) | Jade project JAM services |
+| FluffyLabs | [@fluffylabs](https://github.com/FluffyLabs) | [pvm-debugger](https://github.com/FluffyLabs/pvm-debugger) | JAM PVM code debugger |
+| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade](https://github.com/spacejamapp/jade) | Jade project JAM SDK & example services |
 
 ## Contributing
 
@@ -52,7 +36,7 @@ We welcome contributions from the JAM community! Here's how you can help:
 ### Adding Your JAM Service Examples and SDKs
 
 1. **Fork this repository**
-2. **Add your service example or SDK** to the appropriate section
+2. **Add your service example or SDK** to the list
 3. **Include the following information**:
    - Your name/handle
    - GitHub profile link
@@ -66,16 +50,6 @@ We welcome contributions from the JAM community! Here's how you can help:
 - Include clear README files in your repositories
 - Provide working code examples when possible
 - Keep descriptions concise but informative
-
-### Format for New Entries
-
-When adding new service examples, please use this format:
-
-```markdown
-#### Developer Name
-**Repository**: [repository-name](https://github.com/username/repository)  
-**Description**: Brief description of the JAM service examples or demos.
-```
 
 ## License
 
