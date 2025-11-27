@@ -25,7 +25,7 @@ Key features:
 
 | Developer | GitHub | Repository | Description |
 |-----------|--------|------------|-------------|
-| TomusDrw | [@tomusdrw](https://github.com/tomusdrw) | [jam-examples](https://github.com/tomusdrw/jam-examples) | JAM service examples and tutorials |
+| tomusdrw | [@tomusdrw](https://github.com/tomusdrw) | [jam-examples](https://github.com/tomusdrw/jam-examples) | JAM service examples and tutorials |
 | FluffyLabs | [@fluffylabs](https://github.com/FluffyLabs) | [pvm-debugger](https://github.com/FluffyLabs/pvm-debugger) | JAM PVM code debugger |
 | SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade](https://github.com/spacejamapp/jade) | Jade project JAM SDK & example services |
 
