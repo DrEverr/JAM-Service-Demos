@@ -1,13 +1,20 @@
-# JAM Service Demos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome JAM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of JAM (Join-Accumulate Machine) Service examples and demos
+> A curated list of awesome JAM (Join-Accumulate Machine) resources, tools, examples, tutorials, and more
 
-JAM is a blockchain technology created by Polkadot that provides a flexible framework for building decentralized services. This repository serves as a collection of JAM Service examples, tutorials, and demos created by various developers in the community.
+JAM is a blockchain technology created by Polkadot that provides a flexible framework for building decentralized services. This is your one-stop resource for everything related to JAM development.
 
 ## Contents
 
 - [About JAM](#about-jam)
-- [Developers & Contributors](#developers--contributors)
+- [SDKs](#sdks)
+- [Tools](#tools)
+- [Examples & Demos](#examples--demos)
+- [Documentation](#documentation)
+- [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Articles](#articles)
+- [Community & Resources](#community--resources)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -15,49 +22,147 @@ JAM is a blockchain technology created by Polkadot that provides a flexible fram
 
 The **Join-Accumulate Machine (JAM)** is a novel blockchain architecture developed by Polkadot that enables developers to create custom services with their own state transitions and execution logic. JAM provides a more flexible and efficient approach to building decentralized applications compared to traditional smart contract platforms.
 
-Key features:
-- **Flexible Service Model**: Define custom services with their own logic and state
-- **High Performance**: Optimized for throughput and scalability  
-- **Interoperability**: Built-in support for cross-service communication
-- **Developer-Friendly**: Rich tooling and development environment
+**Key features:**
+- **Flexible Service Model** - Define custom services with their own logic and state
+- **High Performance** - Optimized for throughput and scalability
+- **Interoperability** - Built-in support for cross-service communication
+- **Developer-Friendly** - Rich tooling and development environment
 
-## Developers & Contributors
+## SDKs
 
-| Developer | GitHub | Repository | Description |
-|-----------|--------|------------|-------------|
-| tomusdrw | [@tomusdrw](https://github.com/tomusdrw) | [jam-examples](https://github.com/tomusdrw/jam-examples) | JAM service examples and tutorials in Rust using JamSDK |
-| FluffyLabs | [@fluffylabs](https://github.com/FluffyLabs) | [pvm-debugger](https://github.com/FluffyLabs/pvm-debugger) | JAM PVM code debugger |
-| SpaceJam | [@spacejamapp](https://github.com/spacejamapp) | [jade](https://github.com/spacejamapp/jade) | Jade project JAM SDK & example services in Rust |
-| JamBrains | [@JamBrains](https://github.com/JamBrains) | [service-sdk](https://github.com/JamBrains/service-sdk) | SDK for creating JAM Services in C |
-| JamBrains | [@JamBrains](https://github.com/JamBrains) | [service playground](https://playground.jamcha.in/) | JAM Service playground - code in C using JamBrains SDK |
-| Parity Tech | [@paritytech](https://github.com/paritytech) | [jam-sdk](https://hackmd.io/@polkadot/jamsdk) | SDK for creating JAM Services in Rust |
+Software development kits for building JAM services in various languages.
+
+- [jam-sdk](https://hackmd.io/@polkadot/jamsdk) by [@paritytech](https://github.com/paritytech) - Official SDK for creating JAM Services in Rust
+- [Jade](https://github.com/spacejamapp/jade) by [@spacejamapp](https://github.com/spacejamapp) - JAM SDK & example services in Rust
+- [JamBrains service-sdk](https://github.com/JamBrains/service-sdk) by [@JamBrains](https://github.com/JamBrains) - SDK for creating JAM Services in C
+
+## Tools
+
+Development tools, debuggers, playgrounds, and utilities for JAM development.
+
+- [JAM Codec](https://codec.fluffylabs.dev/) by [@fluffylabs](https://github.com/FluffyLabs) - SCALE codec encoder/decoder for JAM development
+- [JAM Search](https://search.fluffylabs.dev/) by [@fluffylabs](https://github.com/FluffyLabs) - Search tool for JAM-related resources and documentation
+- [JAM Service Playground](https://playground.jamcha.in/) by [@JamBrains](https://github.com/JamBrains) - Browser-based playground for coding JAM services in C using JamBrains SDK
+- [JAM State Viewer](https://state.fluffylabs.dev/) by [@fluffylabs](https://github.com/FluffyLabs) - Tool for visualizing and exploring JAM state
+- [PVM Debugger](https://github.com/FluffyLabs/pvm-debugger) by [@fluffylabs](https://github.com/FluffyLabs) - JAM PVM code debugger for debugging PolkaVM bytecode
+
+## Examples & Demos
+
+Real-world examples and demonstration projects showcasing JAM services.
+
+- [jam-examples](https://github.com/tomusdrw/jam-examples) by [@tomusdrw](https://github.com/tomusdrw) - Collection of JAM service examples and tutorials in Rust using JamSDK
+- [Jade Examples](https://github.com/spacejamapp/jade) by [@spacejamapp](https://github.com/spacejamapp) - Example services included in the Jade project
+
+## Documentation
+
+Official documentation, specifications, and technical references.
+
+- [Gray Paper Reader](https://graypaper.fluffylabs.dev/) by [@fluffylabs](https://github.com/FluffyLabs) - Interactive reader for the JAM Gray Paper
+- [JAM Gray Paper](https://graypaper.com/) - The official JAM specification by Dr. Gavin Wood
+- [JAM SDK Documentation](https://hackmd.io/@polkadot/jamsdk) - Documentation for the official Rust SDK
+
+## Tutorials
+
+Step-by-step guides and learning resources.
+
+- [jam-examples](https://github.com/tomusdrw/jam-examples) - Includes tutorial-style examples for learning JAM service development
+- [Pala Labs JAM Content Map](https://palalabs.notion.site/) by [@pala_labs](https://x.com/pala_labs) - Comprehensive educational resources including JAM Tour lecture archives, thematic shorts, interviews, and documentary
+
+## Videos
+
+Conference talks, tutorials, and educational video content.
+
+- [PBA Bali 2025 Module 6 - JAM - Gavin Wood - The PBA Lecture](https://www.youtube.com/watch?v=XANhw95qOss) - Gavin Wood's JAM lecture at Polkadot Blockchain Academy
+- [PBA Bali 2025 - Module 6 - How to JAM](https://www.youtube.com/watch?v=x-i30v1N3hY) - Tutorial on building with JAM
+- [PBA Bali 2025 - Module 6 - JAM Services](https://www.youtube.com/watch?v=2bzVvoywPfs) - Deep dive into JAM Services
+- [PBA Bali 2025 Module 6 - JAM Core VM](https://www.youtube.com/watch?v=z2dyFVURlRI) - JAM Core Virtual Machine explained
+- [Yes, It Runs DOOM! Running Retro Games on the JAM Blockchain](https://www.youtube.com/watch?v=riyYJo-CKWE) - Demo of running DOOM on JAM
+
+## Articles
+
+Blog posts, technical write-ups, and articles about JAM.
+
+### Technical Deep Dives
+
+- [Demystifying JAM, Polkadot's game-changer](https://www.parity.io/blog/JAM-demystified-explainer) by Parity Technologies - Comprehensive technical explainer about JAM
+- [A Technical Overview of Polkadot's JAM Protocol](https://www.gate.com/learn/articles/a-technical-overview-of-polkadots-jam-protocol/62037) - Detailed technical analysis of the JAM protocol
+- [Why Polkadot's JAM is a Game-Changer for Blockchain Scalability](https://hackernoon.com/why-polkadots-jam-is-a-game-changer-for-blockchain-scalability) - HackerNoon article on JAM's scalability innovations
+
+### Educational & Explainers
+
+- [Blockchain 101: JAM](https://medium.com/@francomangone18/blockchain-101-jam-2d64de1cab1d) by Frank Mangone - Beginner-friendly introduction to JAM
+- [Polkadot JAM Explained. Simply!](https://polkadotters.medium.com/polkadot-jam-explained-simply-825ec8b24607) by Polkadotters - Simple explanation of JAM concepts
+- [What is JAM and What Does This Mean for Polkadot?](https://medium.com/dragonstake/what-is-jam-and-what-does-this-mean-for-polkadot-399647c360d6) by DragonStake - Overview of JAM's impact on Polkadot
+- [What is JAM?](https://medium.com/@Luuuuu/what-is-jam-d9a3911cc807) by Just_Luuuu - Introduction to JAM technology
+
+### Vision & Analysis
+
+- [JAM: Why Join-Accumulate Machine Is a Paradigm Shift for Web3 and AI Governance](https://medium.com/@buildwithbhavya/jam-why-join-accumulate-machine-is-a-paradigm-shift-for-web3-and-ai-governance-d3203769f0bd) by Bhavya Batra (May 2025) - Analysis of JAM's impact on Web3 and AI
+- [From Polkadot to Jam: Gavin Wood's Vision for Infinitely Scalable Blockchain Infrastructure](https://medium.com/@vjgaur/from-polkadot-to-jam-gavin-woods-vision-for-infinitely-scalable-blockchain-infrastructure-e625e29e8b29) by Vijay Gaur - Long-term vision for JAM
+- [How Polkadot 2.0 and JAM Transform Web3](https://medium.com/@stakeflow/how-polkadot-2-0-and-jam-transform-web3-56d9ce17804c) by Stakeflow (July 2025) - JAM's role in Polkadot 2.0
+- [The Story of A.I. Agents and JAM](https://medium.com/@dwulf69/the-story-of-a-i-agents-and-jam-join-accumulate-machine-66a60a269aa7) by dwulf - Exploring AI agents on JAM
+
+### Use Cases & Applications
+
+- [Acala JAMVerse: The Next Chapter](https://medium.com/acalanetwork/acala-jamverse-the-next-chapter-86f7f50514b1) by Travis Wilkerson (Aug 2025) - Building JAM-native dApps
+- [JAM and JAM Grid: A New Era of Web3 Cloud Computing on Polkadot](https://www.panewslab.com/en/articledetails/5t3eun03.html) - JAM Grid cloud computing platform
+- [Transforming Blockchain Scalability: Gavin Wood's Journey from Polkadot to JAM!](https://medium.com/@htxofficial/transforming-blockchain-scalability-gavin-woods-journey-from-polkadot-to-jam-406fa7bc194b) by htxofficial - Evolution from Polkadot to JAM
+
+### Events & News
+
+- [Gavin Wood Signals Next Steps For Polkadot's Revolutionary JAM Protocol At Sub0 Reset](https://hackernoon.com/gavin-wood-signals-next-steps-for-polkadots-revolutionary-jam-protocol-at-sub0-reset) - HackerNoon coverage of Sub0 Reset (Nov 2024)
+- [JAM Tour Hangzhou Wraps Up: Gavin Wood Delves into Decentralized Supercomputing](https://medium.com/@OneBlockplus/jam-tour-hangzhou-wraps-up-gavin-wood-delves-into-decentralized-supercomputing-025904d55083) by OneBlock+ (March 2025) - JAM Tour Hangzhou coverage
+- [JAM Tour Hong Kong: Gavin Wood on Polkadot's Supercomputing Future](https://medium.com/@OneBlockplus/jam-tour-hong-kong-gavin-wood-on-polkadots-supercomputing-future-eca59022a5f7) by OneBlock+ (Feb 2025) - JAM Tour Hong Kong coverage
+
+### Developer Resources
+
+- [ATTENTION: DEVELOPERS! Discover the $50 Million JAM Implementer's Prize](https://www.scytale.digital/blog-posts/attention-developers-discover-the-50-million-jam-implementers-prize-and-access-a-supercomputer-playground) by Scytale Digital - Information about JAM implementation prizes
+
+## Community & Resources
+
+Connect with the JAM community and find additional resources.
+
+- [Decentralized JAM Competition](https://jam.web3.foundation/) - Web3 Foundation's initiative offering 10M DOT and 100K KSM for JAM client implementations
+- [JAM Discord](https://discord.gg/amVfGfXu) - Join the JAM community Discord server
+- [JAM Gray Paper](https://graypaper.com/) - Official JAM specification and white paper
+- [Polkadot](https://polkadot.network/) - The ecosystem behind JAM
 
 ## Contributing
 
-We welcome contributions from the JAM community! Here's how you can help:
+We welcome contributions from the JAM community! This is a community-maintained resource and your contributions help make it better.
 
-### Adding Your JAM Service Examples and SDKs
+### How to Contribute
 
 1. **Fork this repository**
-2. **Add your service example or SDK** to the list
-3. **Include the following information**:
-   - Your name/handle
-   - GitHub profile link
-   - Repository link
-   - Brief description of your service/demo
+2. **Add your resource** to the appropriate section
+3. **Follow the format**: `[Resource Name](url) by [@username](github-profile) - Brief description`
 4. **Submit a pull request**
 
 ### Contribution Guidelines
 
-- Ensure your JAM service examples are well-documented
-- Include clear README files in your repositories
-- Provide working code examples when possible
-- Keep descriptions concise but informative
+- Ensure resources are relevant to JAM development
+- Include clear descriptions
+- Check that links are working
+- Add new resources in alphabetical order within their section
+- For new categories, open an issue first to discuss
+- Maintain the awesome list spirit - quality over quantity
+
+### What to Contribute
+
+We're looking for:
+- SDKs and frameworks
+- Development tools and utilities
+- Example projects and demos
+- Documentation and guides
+- Tutorials and learning resources
+- Videos and presentations
+- Technical articles and blog posts
+- Community resources
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Individual service examples and repositories may have their own licenses - please check each repository for specific licensing information.
+This repository is licensed under the [MIT License](LICENSE). Individual resources may have their own licenses - please check each resource for specific licensing information.
 
 ---
 
-**Note**: This is a community-maintained list. If you have JAM service examples or demos that you'd like to share, please feel free to contribute!
+**Note**: This is a community-maintained list. If you know of awesome JAM resources, please contribute!
